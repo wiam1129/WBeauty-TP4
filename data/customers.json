@@ -1,0 +1,39 @@
+
+[
+  {
+    "id": 1,
+    "name": "Nadia Rahmani",
+    "city": "Marrakech",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Sara Alami",
+    "city": "Casablanca",
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Yasmine Bennani",
+    "city": "Rabat",
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "Salma Idrissi",
+    "city": "Agadir",
+    "active": false
+  },
+  {
+    "id": 5,
+    "name": "Imane El Fassi",
+    "city": "Fès",
+    "active": true
+  },
+  {
+    "id": 6,
+    "name": "Meryem Tazi",
+    "city": "Tanger",
+    "active": true
+  }
+]

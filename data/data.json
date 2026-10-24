@@ -1,0 +1,67 @@
+
+[
+  {
+    "id": 1,
+    "name": "Rouge à lèvres",
+    "category": "Maquillage",
+    "price": 120,
+    "available": true,
+    "description": "Rouge à lèvres mat"
+  },
+  {
+    "id": 2,
+    "name": "Mascara",
+    "category": "Maquillage",
+    "price": 90,
+    "available": true,
+    "description": "Mascara volume"
+  },
+  {
+    "id": 3,
+    "name": "Fond de teint",
+    "category": "Maquillage",
+    "price": 180,
+    "available": false,
+    "description": "Fond de teint liquide"
+  },
+  {
+    "id": 4,
+    "name": "Crème hydratante",
+    "category": "Soin",
+    "price": 150,
+    "available": true,
+    "description": "Hydratation du visage"
+  },
+  {
+    "id": 5,
+    "name": "Sérum visage",
+    "category": "Soin",
+    "price": 200,
+    "available": true,
+    "description": "Sérum éclat"
+  },
+  {
+    "id": 6,
+    "name": "Nettoyant visage",
+    "category": "Soin",
+    "price": 80,
+    "available": false,
+    "description": "Gel nettoyant doux"
+  },
+  {
+    "id": 7,
+    "name": "Parfum floral",
+    "category": "Parfum",
+    "price": 300,
+    "available": true,
+    "description": "Parfum aux notes florales"
+  },
+  {
+    "id": 8,
+    "name": "Parfum vanille",
+    "category": "Parfum",
+    "price": 250,
+    "available": true,
+    "description": "Parfum doux à la vanille"
+  }
+]

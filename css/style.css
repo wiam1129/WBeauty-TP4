@@ -1,0 +1,40 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff8fa;
+}
+
+.navbar {
+    background-color: #f8dce6;
+    padding: 15px;
+}
+
+.navbar-brand {
+    color: #a63d68;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h1 {
+    color: #a63d68;
+}
+
+.card {
+    border: 1px solid #f8dce6;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.card h3 {
+    color: #a63d68;
+}
+
+.btn-primary {
+    background-color: #a63d68;
+    border-color: #a63d68;
+}
+
+.btn-primary:hover {
+    background-color: #872e52;
+    border-color: #872e52;
+}
