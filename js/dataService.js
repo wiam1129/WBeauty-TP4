@@ -10,7 +10,7 @@ export const fetchData = async () => {
 
         const customers = await response1.json();
 
-        // Charger les produits (erreur volontaire)
+        // Charger les produits 
         const response2 = await fetch("../data/products.json");
         if (!response2.ok) {
             throw new Error("Erreur de chargement des produits");
