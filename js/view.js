@@ -7,7 +7,13 @@ export const renderOrders = (orders) => {
     const container = document.getElementById("ordersContainer");
 
     if (orders.length === 0) {
-        container.innerHTML = "<p>Aucune commande trouvée.</p>";
+        container.innerHTML = `
+            <div class="col-12">
+                <div class="alert alert-info text-center">
+                    Aucune commande trouvée.
+                </div>
+            </div>
+        `;
         return;
     }
 
